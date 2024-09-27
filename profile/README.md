@@ -1,7 +1,7 @@
 #  HelixGuard: A DRM that is Pre-emptive and not Post-Piracy
 
 <p align="center">
-  <img src="./public/logo.png" alt="HelixGuard Logo" width="300" height="auto">
+  <img src="../public/logo.png" alt="HelixGuard Logo" width="300" height="auto">
 </p>
 
 🔐 HelixGuard is a state-of-the-art Digital Rights Management (DRM) solution designed for enterprises and developers requiring robust protection for their digital assets. Leveraging advanced chaos theory algorithms, HelixGuard creates sophisticated, unpredictable encryption patterns to secure sensitive media content. Each file is safeguarded with a unique encryption key, ensuring the highest level of confidentiality during transmission and storage.
