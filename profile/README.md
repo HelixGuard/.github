@@ -17,9 +17,8 @@ HelixGuard seamlessly integrates cutting-edge encryption methodologies with your
 
 ## 🗓️ Strategic Rollout
 
-- 📝 Private Beta Registration: Commencing December 2024
-- 🚀 Private Beta Launch: January 2025
-- 🌐 Public Beta Release: March 2025
+- 📝 Beta Registration: Commencing December 2024
+- 🚀 Public Beta Release: March 2025
 - 🎉 General Availability: Q4 2025
 
 ## ❓ Frequently Asked Questions
@@ -30,7 +29,7 @@ HelixGuard seamlessly integrates cutting-edge encryption methodologies with your
 
 ### 📝 How can my organization participate in the beta program?
 
-<span style="color: #2196F3;">We are currently in an advanced stage of research and development, with over a year of intensive work behind us. Our private beta program is scheduled to commence soon, with registrations opening in early December 2024. Visit our website for updates and to secure your organization's place in this exclusive program.</span>
+<span style="color: #2196F3;">We are currently in an advanced stage of research and development, with over six months of intensive work behind us. Our beta program is scheduled to commence soon, with registrations opening in early December 2024. Visit our website for updates and to secure your organization's place in this exclusive program.</span>
 
 ### 🔬 What technological innovations power HelixGuard?
 
